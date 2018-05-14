@@ -7,11 +7,11 @@ Sortieren basiert im Wesentlichen auf zwei Operationen: dem **Vergleich** von zw
 Diese beiden Operationen werden in geeigneter Weise wiederholt, bis die Sortierordnung hergestellt ist.
 In der Vorlesung haben wir Insertion-, Selection-, Merge- und Quicksort kennen gelernt.
 In der Übung heute wollen wir Bubble-Sort implementieren, bei dem einzelne Elemente "nach oben blubbern," bis sie an der richtigen Stelle sind.
-Die folgende Grafik illustriert das Verfahren:
+Die folgende Animation veranschaulicht das Verfahren:
 
 ![Animation](animation.gif)
 
-Quelle: [Swfung8/Wikimedia](Von Swfung8 - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14953478)
+Quelle: [Swfung8 von Wikimedia](Von Swfung8 - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14953478)
 
 
 ## Swap: Elemente tauschen
