@@ -11,7 +11,7 @@ Die folgende Animation veranschaulicht das Verfahren:
 
 ![Animation](animation.gif)
 
-Quelle: [Swfung8 von Wikimedia](Von Swfung8 - Eigenes Werk, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14953478)
+Quelle: [Swfung8 von Wikimedia](https://commons.wikimedia.org/w/index.php?curid=14953478)
 
 
 ## Swap: Elemente tauschen
