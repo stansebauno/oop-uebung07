@@ -43,6 +43,6 @@ class Student {
 
 	@Override
 	public String toString() {
-		return name + " (" + matrikel + ")";
+		return name + " (" + matrikel + ") [" + this.hashCode() + "]";
 	}
 }
