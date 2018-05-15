@@ -31,7 +31,7 @@ Implementieren Sie [Bubble-Sort](https://de.wikipedia.org/wiki/Bubblesort), ein 
 - Setzen Sie die Bounds so, dass nur Arrays von Klassen übergeben werden können, welche `Comparable` entsprechend implementieren.
 - Modifizieren Sie die Klasse `Student` so, dass Objekte dieses Typs der Matrikelnummer aufsteigend nach sortiert werden.
 - Schreiben Sie einen Testfall, welcher vier `Student`-en sortiert.
-	Hinweis: Sie können z.B. die `Arrays.toString(...)` Methode verwenden, um Arrays einfach auf der Konsole auszugeben.
+	Hinweis: Sie können z.B. die `Arrays.toString(...)` Methode verwenden, um Arrays einfach auf der Konsole auszugeben, sowie `Assertions.assertArrayEquals(...)` um zwei Arrays auf Inhaltsgleichheit zu testen.
 
 
 ## Eigene Sortierordnungen
