@@ -30,6 +30,18 @@ class Student {
 	}
 
 	@Override
+	public boolean equals(Object o) {
+		if (o == null)
+			return false;
+		if (!(o instanceof Student))
+			return false;
+
+		Student s = (Student) o;
+
+		return this.matrikel == s.matrikel && this.name.equals(s.name);
+	}
+
+	@Override
 	public String toString() {
 		return name + " (" + matrikel + ")";
 	}
